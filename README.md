@@ -19,4 +19,4 @@ Projeto está rodando no Replit: https://siteadda.vlruiz.repl.co
 Criar um site contando a hitória da primeira programadora com itereção pelos ícones do menu e direcionamento para sites externos ao selecionar outras
 histórias de mulheres que fizeram história na tecnologia 
 
-[imagem de Ada Lovelace]{https://github.com/vlruiz108/siteadda/blob/master/Progra%7Bm%7Daria.PNG}
+![imagem da capa do site com foto de Ada lovelace](https://github.com/vlruiz108/siteadda/blob/master/Progra%7Bm%7Daria.PNG)
